@@ -1,0 +1,20 @@
+Title:  Automated Email Sender
+
+Description: This application picks user details from from and Excel file;
+             details such as their names, email, and their preferences from an
+             Excel fine and sends them Newsfeeds tailored to their specific choices.
+
+            CLASSES AND OBJECTS DEFINED IN PYTHON
+
+Objects:     ExcelFile
+                 filepath
+                 get data()
+             Email
+                 sender
+                 receiver
+                 subject
+                 body
+                 send button
+             Newsfeed
+                 data
+                 get()
